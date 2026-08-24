@@ -1,4 +1,19 @@
 /*
+[포인터와 메모리 관리 (Memory & Pointers)]
+
+▶ Day 8. 안전한 Memcpy 구현 (Overlap 처리)
+▶ Day 9. 제네릭 Swap 함수 (void)*
+▶ Day 10. 이중 포인터를 활용한 2차원 배열 동적 할당
+▶ uart 채팅 프로그램
+▶ Day 11. 함수 포인터 배열을 이용한 계산기
+▶ adc-모듈
+▶ Day 12. 구조체 멤버 오프셋 매크로 (offsetof 구현)
+▶ Day 13. 고정 크기 메모리 풀 (Memory Pool) 할당기
+▶ Day 14. 헥사 덤프 (Hexdump)
+*/
+
+
+/*
 - **Day 8. 안전한 Memcpy 구현 (Overlap 처리)**
     - **입력:** 소스 주소, 목적지 주소, 복사할 바이트 수
     - **출력:** 메모리 복사 후 목적지 주소의 데이터 덤프

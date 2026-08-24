@@ -1,4 +1,16 @@
 /*
+[비트 연산과 데이터 표현 (Bitwise & Data)]
+
+▶ Day 1. 특정 비트 제어 매크로 구현
+▶ Day 2. Endianness 변환 함수 (Network to Host)
+▶ Day 3. 팩맨 (Packed Data) 파싱
+▶ Day4. 비트 단위 Reverse (Mirroring)
+▶ Day 5. 1의 개수 세기 (Population Count)
+▶ Day 6. 원형 비트 시프트 (Circular Shift/Rotate)
+▶ Day 7. Checksum 계산 (XOR 방식)
+*/
+
+/*
 
 260806 Thu
 Day1 특정 비트 제어 매크로 구현
