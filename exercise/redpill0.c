@@ -26,11 +26,13 @@
 
 ▶ Day 15. 원형 버퍼 (Ring Buffer) 구현
 ▶ Day 16. 단일 연결 리스트 역순 정렬
+▶ Day 17. 비트맵 (Bitmap) 관리자
 
 [알고리즘 및 시스템 모사 (Algorithms & System)]
 
 ▶ Day 22. 소프트웨어 타이머 (Linked List 기반)
 ▶ Day 23. 문자열 토크나이저 (strtok 재구현)
 ▶ Day 24. 디바운싱 (Debouncing) 알고리즘
+▶ Day 25. 이동 평균 필터 (Moving Average)
 
 */
