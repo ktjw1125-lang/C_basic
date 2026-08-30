@@ -5,7 +5,7 @@
 ▶ Day 1. 특정 비트 제어 매크로 구현
 ▶ Day 2. Endianness 변환 함수 (Network to Host)
 ▶ Day 3. 팩맨 (Packed Data) 파싱
-▶ Day4. 비트 단위 Reverse (Mirroring)
+▶ Day 4. 비트 단위 Reverse (Mirroring)
 ▶ Day 5. 1의 개수 세기 (Population Count)
 ▶ Day 6. 원형 비트 시프트 (Circular Shift/Rotate)
 ▶ Day 7. Checksum 계산 (XOR 방식)
@@ -27,6 +27,9 @@
 ▶ Day 15. 원형 버퍼 (Ring Buffer) 구현
 ▶ Day 16. 단일 연결 리스트 역순 정렬
 ▶ Day 17. 비트맵 (Bitmap) 관리자
+▶ Day 18. 우선순위 큐 (Min Heap) - 태스크 스케줄링용
+▶ Day 19. 스택 오버플로우 감지 (Canary)
+▶ Day 20. 희소 행렬(Sparse Matrix) 압축
 
 [알고리즘 및 시스템 모사 (Algorithms & System)]
 
@@ -34,5 +37,8 @@
 ▶ Day 23. 문자열 토크나이저 (strtok 재구현)
 ▶ Day 24. 디바운싱 (Debouncing) 알고리즘
 ▶ Day 25. 이동 평균 필터 (Moving Average)
+▶ Day 26. 생산자-소비자 (Producer-Consumer) 시뮬레이션
+▶ Day 27. CRC-32 구현
+▶ Day 28. 가변 인자 함수 구현 (my_printf)
 
 */
